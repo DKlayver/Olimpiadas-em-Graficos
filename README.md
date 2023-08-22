@@ -4,19 +4,33 @@ O projeto visa a partir de três arquivos CSV, gerar gráficos com informações
 O arquivo athlete_events.csv contém 271.116 linhas e 15 colunas. Cada linha corresponde a um atleta individual competindo em um evento olímpico individual. As colunas são:
 
 ID - Identificador único para cada Atleta
+
 Name - Nome do atleta
+
 Sex - Sexo (M ou F)
+
 Age - Idade (Inteiro)
+
 Height - Altura (Em centímetros)
+
 Weight - Peso (Em quilogramas) *o correto seria massa
+
 Team - Nome da Equipe
+
 NOC - National Olympic Committee (código de 3 letras)
+
 Games - Ano e Temporada (Inverno ou Verão)
+
 Year - Ano (Inteiro)
+
 Season (Temporada) - Summer ou Winter
+
 City - Cidade Sede
+
 Sport - Esporte
+
 Event - Evento
+
 Medal - Ouro, Prata, Bronze ou NA
 
 Já o arquivo noc_regions.csv contém 230 linhas e 3 colunas. Cada linha representa ummembro do comitê olímpico internacional, com o seu código, nome do país e um comentário sobre o nome do país.
