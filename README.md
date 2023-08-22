@@ -19,7 +19,7 @@ O arquivo athlete_events.csv contém 271.116 linhas e 15 colunas. Cada linha cor
   Event - Evento
   Medal - Ouro, Prata, Bronze ou NA
 
-Já o arquivo noc_regions.csv contém 230 linhas e 3 colunas. Cada linha representa ummembro do comitê olímpico internacional, com o seu código, nome do país e um comentário sobre o nome do país.
+Já o arquivo noc_regions.csv contém 230 linhas e 3 colunas. Cada linha representa um membro do comitê olímpico internacional, com o seu código, nome do país e um comentário sobre o nome do país.
 
 No arquivo countries-continents.csv contém 195 linhas e 2 colunas. Cada linha representa o
 nome de um país e seu respectivo continente.
@@ -49,4 +49,5 @@ Proposta:
 Se necessário, use os comandos no terminal para instalar as dependencias:
 
   python3 -m pip install --upgrade termcolor
+  
   pip install matplotlib
