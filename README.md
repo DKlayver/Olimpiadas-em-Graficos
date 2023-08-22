@@ -25,23 +25,25 @@ No arquivo countries-continents.csv contém 195 linhas e 2 colunas. Cada linha r
 nome de um país e seu respectivo continente.
 
 =================================================================================================================================================================================================
+
 Gráfico de Linhas:
   Desempenho do <País> nas últimas <X> olimpíadas de <Tipo de Olimpíada>, três
 linhas, uma por cada tipo de medalha.
 
-Gráfico de Barras
+Gráfico de Barras:
   Altura média dos atletas para um grupo de <Esportes> na olimpíada de <Ano>
 de <Tipo de Olimpíada>, separados por sexo.
 
-Gráfico Boxplot
+Gráfico Boxplot:
   Peso dos atletas do <Esporte> nas últimas <X> olimpíadas de <Tipo de
 Olimpíada>.
 
-Resposta Textual
+Resposta Textual:
   Vencedores de medalhas em diferentes esportes numa mesma olimpíada.
 
 Proposta:
   Barras: Quais foram os <X> países com os maiores números de atletas medalhista no <ano> ? 
+  
 =================================================================================================================================================================================================
 Se necessário, use os comandos no terminal para instalar as dependencias:
   python3 -m pip install --upgrade termcolor
