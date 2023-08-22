@@ -1,4 +1,7 @@
 # Python
+
+https://replit.com/@PI-01/Projeto01xitado
+
 O projeto visa a partir de três arquivos CSV, gerar gráficos com informações úteis sobre as Olímpiadas. O usuário irá através de um menu selecionar qual gráfico deseja e como.
 
 O arquivo athlete_events.csv contém 271.116 linhas e 15 colunas. Cada linha corresponde a um atleta individual competindo em um evento olímpico individual. As colunas são:
